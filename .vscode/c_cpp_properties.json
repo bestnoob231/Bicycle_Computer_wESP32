@@ -8,7 +8,6 @@
         {
             "name": "PlatformIO",
             "includePath": [
-                "c:/Users/AndacLenovo/Documents/PlatformIO/Projects/bicycle_computer_esp32_0.3.0/include",
                 "c:/Users/AndacLenovo/Documents/PlatformIO/Projects/bicycle_computer_esp32_0.3.0/src",
                 "C:/Users/AndacLenovo/.platformio/packages/framework-arduinoespressif32/libraries/EEPROM/src",
                 "C:/Users/AndacLenovo/.platformio/packages/framework-arduinoespressif32/libraries/ArduinoOTA/src",
@@ -246,7 +245,6 @@
             "browse": {
                 "limitSymbolsToIncludedHeaders": true,
                 "path": [
-                    "c:/Users/AndacLenovo/Documents/PlatformIO/Projects/bicycle_computer_esp32_0.3.0/include",
                     "c:/Users/AndacLenovo/Documents/PlatformIO/Projects/bicycle_computer_esp32_0.3.0/src",
                     "C:/Users/AndacLenovo/.platformio/packages/framework-arduinoespressif32/libraries/EEPROM/src",
                     "C:/Users/AndacLenovo/.platformio/packages/framework-arduinoespressif32/libraries/ArduinoOTA/src",
