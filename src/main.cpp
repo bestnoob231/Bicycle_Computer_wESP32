@@ -32,11 +32,15 @@
 
 // #################   INCLUDES    #################
 
+#include "button/button.h"
+#include "menu/menu.h"
+#include "screen/screen.h"
+#include <images/images.h>
+
 #include <EEPROM.h>
 #include <TFT_eSPI.h>
 #include <WiFi.h>
 #include <ArduinoOTA.h>
-#include <images.h>
 
 // #################################################
 
